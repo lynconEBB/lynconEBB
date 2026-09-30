@@ -1,7 +1,7 @@
 ![Lyncon Baez banner](https://raw.githubusercontent.com/lynconEBB/lynconEBB/main/banner.svg)
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/alwinrwang" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/lyncon-baez" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
     <a href="mailto:lynconlyn@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
     <a href="https://techlyn.online" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-0077B5?style=flat-square&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxlbGxpcHNlIGN4PSIxMiIgY3k9IjEyIiByeD0iNCIgcnk9IjEwIi8%2BPHBhdGggZD0iTTIgMTJoMjAiLz48L3N2Zz4%3D"></a>
 </p>
@@ -37,6 +37,7 @@ I'm a **Full Stack Engineer** with a background in **Computer Science**, working
 ## 🥽 XR & Mobile Platforms
 
 ![Magic Leap](https://img.shields.io/badge/Magic_Leap-E51937?style=flat-square)
+![HoloLens 2](https://img.shields.io/badge/HoloLens_2-0078D4?style=flat-square)
 ![HTC Vive](https://img.shields.io/badge/HTC_Vive-00B2E3?style=flat-square&logo=htcvive&logoColor=white)
 ![Oculus](https://img.shields.io/badge/Oculus-1C1E20?style=flat-square&logo=oculus&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
