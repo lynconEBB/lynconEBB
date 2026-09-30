@@ -20,14 +20,13 @@ I'm a **Full Stack Engineer** with a background in **Computer Science**, working
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
 
-## 🛠️ Technologies
-
-### ⚙️ Frameworks & Engines
+## ⚙️ Frameworks & Engines
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-222C37?style=flat-square&logo=unity&logoColor=white)
@@ -35,15 +34,16 @@ I'm a **Full Stack Engineer** with a background in **Computer Science**, working
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
-### 🥽 XR & Mobile Platforms
+## 🥽 XR & Mobile Platforms
 
 ![Magic Leap](https://img.shields.io/badge/Magic_Leap-E51937?style=flat-square)
 ![HTC Vive](https://img.shields.io/badge/HTC_Vive-00B2E3?style=flat-square&logo=htcvive&logoColor=white)
 ![Oculus](https://img.shields.io/badge/Oculus-1C1E20?style=flat-square&logo=oculus&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
 
-### 🔌 Embedded Systems & Hardware
+## 🔌 Embedded Systems & Hardware
 
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
