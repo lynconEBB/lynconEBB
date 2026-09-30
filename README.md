@@ -8,7 +8,7 @@
 
 ## 👋 A Little About Me
 
-I'm a **Full Stack Engineer** with a background in **Computer Science**, working on innovative solutions with a focus on **Extended Reality (XR)**. My work brings together full-stack development and immersive technologies to turn ideas into practical experiences.
+I'm a **Full Stack Engineer** based in **Brazil 🇧🇷**, with a **bachelor's degree in Computer Science**, working on innovative solutions with a focus on **Extended Reality (XR)**. My work brings together full-stack development and immersive technologies to turn ideas into practical experiences.
 
 - 💻 Building full-stack solutions.
 - 🥽 Focused on XR, including virtual, augmented, and mixed reality.
@@ -25,6 +25,7 @@ I'm a **Full Stack Engineer** with a background in **Computer Science**, working
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 
 ## ⚙️ Frameworks & Engines
 
@@ -48,3 +49,5 @@ I'm a **Full Stack Engineer** with a background in **Computer Science**, working
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+
+![Lyncon Baez footer](https://raw.githubusercontent.com/lynconEBB/lynconEBB/main/footer.svg)
